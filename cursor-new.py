@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+Cursor New - Cursor IDE 增强工具
+版本: 1.0.0
+作者微信: jszmkx4
+项目主页: https://github.com/jsjm1986/cursor-new
+
+Copyright (c) 2025 Cursor New
+Licensed under the MIT License
+"""
 
 import os
 import sys
@@ -64,8 +73,9 @@ class CursorHelper:
         if self.system == "windows":
             import locale
             try:
-                # 获取 Windows 系统语言设置
-                lang = locale.getdefaultlocale()[0]
+                # 使用新的推荐方法获取系统语言
+                locale.setlocale(locale.LC_ALL, '')
+                lang = locale.getlocale()[0]
                 if lang and 'zh' in lang.lower():
                     return 'zh'
             except:
@@ -205,11 +215,21 @@ class CursorHelper:
             """)
 
     def show_banner(self):
-        print("\n=== Cursor New ===")
+        print("""
+ ██████╗██╗   ██╗██████╗ ███████╗ ██████╗ ██████╗    ███╗   ██╗███████╗██╗    ██╗
+██╔════╝██║   ██║██╔══██╗██╔════╝██╔═══██╗██╔══██╗   ████╗  ██║██╔════╝██║    ██║
+██║     ██║   ██║██████╔╝███████╗██║   ██║██████╔╝   ██╔██╗ ██║█████╗  ██║ █╗ ██║
+██║     ██║   ██║██╔══██╗╚════██║██║   ██║██╔══██╗   ██║╚██╗██║██╔══╝  ██║███╗██║
+╚██████╗╚██████╔╝██║  ██║███████║╚██████╔╝██║  ██║   ██║ ╚████║███████╗╚███╔███╔╝
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝ 
+        """)
+        print("=" * 60)
         print(f"版本 / Version: 1.0.0")
         print(f"支持的 Cursor 版本 / Supported Cursor Version: 0.45.11")
         print(f"项目主页 / Homepage: https://github.com/jsjm1986/cursor-new")
-        print("=" * 50)
+        print(f"作者微信 / WeChat: jszmkx4")
+        print(f"版权所有 / Copyright (c) 2025 Cursor New")
+        print("=" * 60)
 
     def select_language(self):
         print("\n选择语言 / Select Language:")
