@@ -9,6 +9,10 @@
 ## 项目链接
 - GitHub: https://github.com/jsjm1986/cursor-new
 
+## 支持版本
+- Cursor IDE: 0.45.11 及 0.45.x 系列版本
+- 建议使用最新版本以获得最佳体验
+
 ## 项目简介
 
 Cursor New 是一个专门为 Cursor IDE 开发的增强工具，旨在提供更好的用户体验。它采用纯 Python 开发，不依赖任何第三方库，支持多个操作系统平台，并提供中英文双语界面。
@@ -155,6 +159,10 @@ Cross-platform enhancement tool for Cursor IDE, supporting Windows, macOS, and L
 
 ## Project Link
 - GitHub: https://github.com/jsjm1986/cursor-new
+
+## Supported Versions
+- Cursor IDE: 0.45.11 and 0.45.x series
+- Recommended to use the latest version for best experience
 
 ## Introduction
 
