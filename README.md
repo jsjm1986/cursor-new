@@ -8,6 +8,7 @@
 
 ## 项目链接
 - GitHub: https://github.com/jsjm1986/cursor-new
+- 作者微信: jszmkx4
 
 ## 支持版本
 - Cursor IDE: 0.45.11 及 0.45.x 系列版本
@@ -143,11 +144,16 @@ pyinstaller --onefile --uac-admin --clean --name cursor_new cursor-new.py
 ### 其他平台
 - 直接运行 Python 源码即可，无需构建
 
-## 许可证
+## 联系方式 / Contact
+
+- 微信 / WeChat: jszmkx4
+- GitHub: https://github.com/jsjm1986/cursor-new
+
+## 许可证 / License
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
-## 致谢
+## 致谢 / Acknowledgments
 
 感谢所有为本项目提供帮助和支持的开发者。
 
@@ -159,6 +165,7 @@ Cross-platform enhancement tool for Cursor IDE, supporting Windows, macOS, and L
 
 ## Project Link
 - GitHub: https://github.com/jsjm1986/cursor-new
+- WeChat: jszmkx4
 
 ## Supported Versions
 - Cursor IDE: 0.45.11 and 0.45.x series
@@ -293,6 +300,11 @@ pyinstaller --onefile --uac-admin --clean --name cursor_new cursor-new.py
 
 ### Other Platforms
 - Run Python source code directly, no build required
+
+## Contact
+
+- WeChat: jszmkx4
+- GitHub: https://github.com/jsjm1986/cursor-new
 
 ## License
 
