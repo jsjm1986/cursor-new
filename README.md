@@ -86,6 +86,8 @@ sudo python3 cursor-new.py
 ### 手动操作说明
 
 如果自动操作失败，可以选择选项 3 查看手动操作步骤。
+![9adfe6a8047987f6db3be08d122c38a](https://github.com/user-attachments/assets/effa0e18-9bb2-4ba6-b08a-ff2e6db320eb)
+
 
 ## 配置文件位置
 
