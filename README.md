@@ -11,13 +11,12 @@
 - 作者微信: jszmkx4
 
 ## 支持版本
-- Cursor IDE: 0.45.11 及 0.45.x 系列版本
+- Cursor IDE: 0.45.15 及 0.45.x 系列版本
 - 建议使用最新版本以获得最佳体验
 
 ## 项目简介
 
 Cursor New 是一个专门为 Cursor IDE 开发的增强工具，旨在提供更好的用户体验。它采用纯 Python 开发，不依赖任何第三方库，支持多个操作系统平台，并提供中英文双语界面。
-
 
 ## 主要功能
 
@@ -29,10 +28,6 @@ Cursor New 是一个专门为 Cursor IDE 开发的增强工具，旨在提供更
 - 💻 跨平台支持（Windows/macOS/Linux）
 
 ## Windows 用户使用指南
-
-
-![1739355046208](https://github.com/user-attachments/assets/62614280-b032-4ffe-9ed8-b00eb4185854)
-
 
 ### 快速开始（推荐）
 
@@ -91,7 +86,6 @@ sudo python3 cursor-new.py
 ### 手动操作说明
 
 如果自动操作失败，可以选择选项 3 查看手动操作步骤。
-
 
 ## 配置文件位置
 
@@ -174,7 +168,7 @@ Cross-platform enhancement tool for Cursor IDE, supporting Windows, macOS, and L
 - WeChat: jszmkx4
 
 ## Supported Versions
-- Cursor IDE: 0.45.11 and 0.45.x series
+- Cursor IDE: 0.45.15 and 0.45.x series
 - Recommended to use the latest version for best experience
 
 ## Introduction
