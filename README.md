@@ -11,7 +11,7 @@
 - 作者微信: jszmkx4
 
 ## 支持版本
-- Cursor IDE: 0.45.15 及 0.45.x 系列版本
+- Cursor IDE: 0.46.3 及 0.45.x 系列版本
 - 建议使用最新版本以获得最佳体验
 
 ## 项目简介
@@ -168,7 +168,7 @@ Cross-platform enhancement tool for Cursor IDE, supporting Windows, macOS, and L
 - WeChat: jszmkx4
 
 ## Supported Versions
-- Cursor IDE: 0.45.15 and 0.45.x series
+- Cursor IDE: 0.46.3 and 0.46.x series
 - Recommended to use the latest version for best experience
 
 ## Introduction
