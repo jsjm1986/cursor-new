@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Cursor New - Cursor IDE 增强工具
-版本: 1.0.0
+版本: 1.1.0
 作者微信: jszmkx4
 项目主页: https://github.com/jsjm1986/cursor-new
 
@@ -224,8 +224,8 @@ class CursorHelper:
  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝ 
         """)
         print("=" * 60)
-        print(f"版本 / Version: 1.0.0")
-        print(f"支持的 Cursor 版本 / Supported Cursor Version: 0.45.11")
+        print(f"版本 / Version: 1.1.0")
+        print(f"支持的 Cursor 版本 / Supported Cursor Version: 0.46.x")
         print(f"项目主页 / Homepage: https://github.com/jsjm1986/cursor-new")
         print(f"作者微信 / WeChat: jszmkx4")
         print(f"版权所有 / Copyright (c) 2025 Cursor New")
