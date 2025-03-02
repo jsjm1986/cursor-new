@@ -130,17 +130,6 @@ sudo python3 cursor-new.py
 - 源代码完全开放透明
 - 支持手动操作方式
 
-## 开发说明
-
-### Windows 构建
-```bash
-# 安装 PyInstaller
-pip install pyinstaller
-
-# 构建可执行文件
-pyinstaller --onefile --uac-admin --clean --name cursor_new cursor-new.py
-```
-
 ### 其他平台
 - 直接运行 Python 源码即可，无需构建
 
